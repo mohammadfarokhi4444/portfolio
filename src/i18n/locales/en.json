@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "expertise": "Expertise",
+    "history": "Career History",
+    "projects": "Projects",
+    "contact": "Contact Me"
+  },
+  "main": {
+    "name": "Mohammad Farokhi",
+    "field": "Frontend Developer"
+  },
+  "expertise": {
+    "title": "Expertise",
+    "frontend": "Frontend Engineering & Development",
+    "frontend_des": "Designing and developing scalable, high-performance frontend applications with a strong focus on clean architecture, maintainable codebases, and exceptional user experiences. Experienced in building production-grade applications using React.js, Next.js, and Vue.js, following modern frontend engineering practices, scalable design patterns, and performance optimization strategies.",
+    "tech_stack": "Tech stack:",
+    "ui_engineering": "UI Architecture & Component Design",
+    "ui_engineering_des": "Designing scalable UI architectures and reusable component systems for enterprise-level applications with a strong focus on maintainability, consistency, and developer experience. Experienced in building design systems, responsive interfaces, complex dashboards, and data-driven user interfaces using modern component patterns and frontend architecture principles.",
+    "api_integration": "API Integration & Application State Management",
+    "api_integration_des": "Building scalable frontend data layers by integrating APIs, managing application state, and implementing secure authentication flows. Experienced in developing data-driven applications with efficient client-state and server-state management, optimized data fetching strategies, and real-time communication patterns."
+  },
+  "history": {
+    "title": "Career History",
+
+    "exp6": {
+      "date": "January 2026 - Present",
+      "role": "Frontend Developer",
+      "company": "Freelance — Remote",
+      "desc": "Designed and developed the «Haghino» website for a legal organization, focusing on creating a custom contract generation system through ready-made templates. Users can create professional contracts based on their requirements and use features such as digital signatures, assigning arbitrators to contracts, and an advanced text editor powered by CKEditor. Also responsible for developing multiple features and providing support for completed projects."
+    },
+
+    "exp5": {
+      "date": "April 2025 - January 2026",
+      "role": "Frontend Developer",
+      "company": "Freelance — Remote",
+      "desc": "Designed and implemented the website and admin panel of «Karsaz» in the field of workforce recruitment and training, as well as skilled worker onboarding through custom processes tailored to employer requirements. In addition, collaborated on the development of the «Injast Life» project and implemented several outsourced project sections, including leasing, insurance, cryptocurrency, events, and other modules."
+    },
+
+    "exp4": {
+      "date": "July 2024 - April 2025",
+      "role": "Frontend Developer",
+      "company": "Freelance — Remote",
+      "desc": "Designed and developed a dedicated website and management panel based on the requirements of the Efa company. In addition to the challenges of the website section, the main focus of the project was on developing the management panel. By implementing Role-Based Permission, the system enabled usage for ten different user roles with completely separate menus and access levels, along with real-time role switching capabilities. Custom dashboards, advanced form-based workflows, and evaluation forms were also developed. The project architecture was designed to be scalable, allowing new features to be added in the future."
+    },
+
+    "exp3": {
+      "date": "September 2023 - July 2024",
+      "role": "Frontend Developer",
+      "company": "Safa-Rayaneh — Tehran (On-site)",
+      "desc": "Collaborated on the development of extensive sections of municipal automation systems at Safa-Rayaneh, one of the companies active in enterprise software automation development. These projects included implementing and developing complex and nested Workflow processes, with a focus on improving organizational and management workflows."
+    },
+    "exp2": {
+      "date": "March 2023 - September 2023",
+      "role": "Frontend Developer",
+      "company": "Mehra-Shop — (Remote)",
+      "desc": "Developed an e-commerce website using the Next.js framework, including the implementation of features similar to large-scale online stores such as Digikala. Performance optimization and improving loading speed through techniques such as Lazy Loading for managing data and product images were among the main focuses of this project."
+    },
+    "exp1": {
+      "date": "September 2021 - March 2023",
+      "role": "Frontend Developer",
+      "company": "Freelance — Remote",
+      "desc": "Collaborated on the development of multiple remote and part-time projects, including the «Sandbar» project focused on implementing an admin panel for construction material purchase and sales orders, developing an admin panel for an alarm system to manage thermal sensor alerts, and executing multiple other projects using React.js."
+    }
+  },
+  "project": {
+    "title": "Projects",
+
+    "prj1": {
+      "name": "Ifa Website (Published)",
+      "des": "Developed a production-ready crowdfunding and microfinance platform using Next.js and TypeScript. Designed scalable frontend architecture with responsive UI, reusable components, secure authentication flows, and optimized data-driven experiences. Implemented advanced forms, localization, animations, charts, and API integrations following modern React development practices.",
+      "tech": "Next.js, TypeScript, Material UI, Emotion, TanStack Query, React Hook Form, Zod, NextAuth, ECharts, Framer Motion"
+    },
+    "prj3": {
+      "name": "Ifa Admin Panel (Published)",
+      "des": "Built an enterprise-level administration dashboard for managing crowdfunding operations. Developed reusable UI systems, complex workflows, data visualization, content management features, and secure management interfaces with modern React architecture.",
+      "tech": "React.js, TypeScript, Material UI, React Hook Form, Zod, REST API, Charts, Dashboard Architecture"
+    },
+    "prj4": {
+      "name": "Karsaz Website (Published)",
+      "des": "Developed a technical training platform using Next.js and TypeScript. Implemented SSR-based architecture, authentication flows, responsive interfaces, API integration, and optimized user experiences for course management workflows.",
+      "tech": "Next.js, TypeScript, Tailwind CSS, TanStack Query, NextAuth, Authentication, Framer Motion, Localization"
+    },
+    "prj5": {
+      "name": "Karsaz Admin Panel (Published)",
+      "des": "Developed a scalable management dashboard for an educational platform using React.js, TypeScript, and Vite. Built reusable components, advanced forms, data management layers, and type-safe routing with modern frontend architecture.",
+      "tech": "React.js, TypeScript, Vite, Material UI, TanStack Router, TanStack Query, React Hook Form, Zod"
+    },
+    "prj6": {
+      "name": "Haghino Website",
+      "des": "Developed a document-based legal platform for creating, editing, and digitally signing contracts. Implemented rich text editing, PDF workflows, authentication, and secure online signature processes with a focus on performance and usability.",
+      "tech": "Next.js, TypeScript, CKEditor, Tailwind CSS, Signature Pad, React PDF, NextAuth, TanStack Query"
+    },
+    "prj7": {
+      "name": "Safa Rayaneh",
+      "des": "Worked on large-scale enterprise municipal automation systems used across multiple provinces. Developed workflow-driven interfaces, document management modules, electronic archiving systems, and complex data-based applications using Vue.js and Quasar.",
+      "tech": "Vue.js, Quasar Framework, JavaScript, Enterprise UI, Workflow Systems"
+    },
+    "prj8": {
+      "name": "Injast Life (Published)",
+      "des": "Contributed to a multi-service platform covering insurance, leasing, digital signature, and event management solutions. Developed frontend modules, reusable components, API integrations, and responsive user interfaces across different business domains.",
+      "tech": "Next.js, TypeScript, Component Architecture, REST API"
+    },
+    "prj9": {
+      "name": "Meyarcrowd Website (Published)",
+      "des": "Developed a crowdfunding platform using Nuxt.js and Vue.js with focus on performance and user experience. Implemented responsive interfaces, API integrations, dynamic components, localization features, and optimized SSR-based frontend workflows.",
+      "tech": "Nuxt.js, Vue.js, Bootstrap, Axios, VeeValidate, SSR"
+    }
+  },
+  "contact": {
+    "contact_me": "Contact Me",
+    "mobile": "Mobile:",
+    "email": "Email:",
+    "des": "Have an idea, project, or opportunity? Let's discuss how I can help turn it into a scalable, maintainable, and user-focused digital experience."
+  },
+  "footer": {
+    "portfolio_by": "A portfolio designed & built by",
+    "name": "Mohammad Farokhi"
+  }
+}
