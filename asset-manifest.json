@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8050fb8a.css",
-    "main.js": "/portfolio/static/js/main.beaf2446.js",
+    "main.js": "/portfolio/static/js/main.1ce1c996.js",
     "static/js/453.3e319496.chunk.js": "/portfolio/static/js/453.3e319496.chunk.js",
     "static/media/ifa-site1.png": "/portfolio/static/media/ifa-site1.0b5dbbd56b666eb3f29b.png",
     "static/media/ifa-site2.png": "/portfolio/static/media/ifa-site2.3c172fd7ee5ed8345f70.png",
@@ -50,11 +50,11 @@
     "static/media/safarayaneh4.png": "/portfolio/static/media/safarayaneh4.9bf0756766b27580e035.png",
     "index.html": "/portfolio/index.html",
     "main.8050fb8a.css.map": "/portfolio/static/css/main.8050fb8a.css.map",
-    "main.beaf2446.js.map": "/portfolio/static/js/main.beaf2446.js.map",
+    "main.1ce1c996.js.map": "/portfolio/static/js/main.1ce1c996.js.map",
     "453.3e319496.chunk.js.map": "/portfolio/static/js/453.3e319496.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8050fb8a.css",
-    "static/js/main.beaf2446.js"
+    "static/js/main.1ce1c996.js"
   ]
 }
