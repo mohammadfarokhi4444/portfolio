@@ -12,7 +12,7 @@
   },
   "aboutMe": {
     "title": "About Me",
-    "des": "I am a Senior Front-End Developer with over 5 years of experience in developing React and Next.js based applications. My focus is on designing and implementing clean, scalable, and maintainable architectures. In the projects I develop, I strive to choose the right solutions and build structures that remain flexible and extensible over time. My experience includes building small, reusable components based on Base Components and creating well-structured systems to improve project maintainability and management. I also pay special attention to Code Quality, Performance Optimization, and User Experience. The projects I develop are containerized with Docker and prepared for deployment across different environments."
+    "des": "I am a Senior Front-End Developer with over 5 years of experience in developing React and Next.js based applications. My focus is on designing and implementing clean, scalable, and maintainable architectures. In the projects I develop, I strive to choose the right solutions and build structures that remain flexible and extensible over time. My experience includes building small, reusable components extend on Base Components and creating well-structured systems to improve project maintainability and management. I also pay special attention to Code Quality, Performance Optimization, and User Experience. The projects I develop are containerized with Docker and prepared for deployment across different environments."
   },
   "expertise": {
     "title": "Expertise",
