@@ -24,7 +24,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-size: 1rem !important;
 }
+.about-me-container {
+  padding-top: 3%;
+    padding-inline: 10%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
 
+    svg {
+        color: white;
+    }
+}
 code {
   font-family:
     source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace !important;

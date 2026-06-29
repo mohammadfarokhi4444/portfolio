@@ -28,7 +28,7 @@ function Navigation({ parentToChild, modeChange }: any) {
   const { mode } = parentToChild;
 
   const navItems = [
-    { label: "nav.expertise", id: "expertise" },
+    { label: "nav.expertise", id: "aboutMe" },
     { label: "nav.history", id: "history" },
     { label: "nav.projects", id: "projects" },
     { label: "nav.contact", id: "contact" },
@@ -63,13 +63,13 @@ function Navigation({ parentToChild, modeChange }: any) {
   }, []);
 
   const scrollToSection = (section: string) => {
-    console.log(section);
+    // console.log(section);
     const expertiseElement = document.getElementById(section);
     if (expertiseElement) {
       expertiseElement.scrollIntoView({ behavior: "smooth" });
-      console.log("Scrolling to:", expertiseElement); // Debugging: Ensure the element is found
+      // console.log("Scrolling to:", expertiseElement); // Debugging: Ensure the element is found
     } else {
-      console.error('Element with id "expertise" not found'); // Debugging: Log error if element is not found
+      // console.error('Element with id "expertise" not found'); // Debugging: Log error if element is not found
     }
   };
 

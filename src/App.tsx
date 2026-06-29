@@ -12,6 +12,7 @@ import { useNavigate, useParams } from "react-router-dom";
 import "./index.scss";
 import "./i18n";
 import { useTranslation } from "react-i18next";
+import AboutMe from "./components/AboutMe";
 
 function getInitialTheme(): string {
   if (typeof window === "undefined") return "dark";
@@ -79,6 +80,7 @@ function App() {
 
       <FadeIn transitionDuration={700}>
         <Main />
+        <AboutMe />
 
         <Expertise parentToChild={{ mode }} />
 
